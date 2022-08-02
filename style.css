@@ -1,0 +1,9 @@
+body {
+    min-height: 100vh;
+    overflow: hidden;
+    background: rgb(219, 239, 5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
